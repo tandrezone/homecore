@@ -1,0 +1,2 @@
+# homecore
+home automation core
