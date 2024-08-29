@@ -1,0 +1,16 @@
+{
+    "name": "homecore/wizlamp",
+    "description": "wizLamp controller code",
+    "autoload": {
+        "psr-4": {
+            "Bundles\\Wizlamp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Andre",
+            "email": "tiago.andre@javra.com"
+        }
+    ],
+    "require": {}
+}

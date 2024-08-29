@@ -1,0 +1,17 @@
+{
+    "name": "tandre/homecore",
+    "description": "home automation core",
+    "autoload": {
+        "psr-4": {
+            "Tandre\\Homecore\\": "src/",
+            "Bundles\\Wizlamp\\": "bundles/wizlamp/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Andre",
+            "email": "tiago.andre@javra.com"
+        }
+    ],
+    "require": {}
+}
